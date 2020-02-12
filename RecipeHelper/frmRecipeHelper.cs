@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RecipeHelper
 {
-    public partial class Form1 : Form
+    public partial class frmRecipeHelper : Form
     {
-        public Form1()
+        public frmRecipeHelper()
         {
             InitializeComponent();
         }

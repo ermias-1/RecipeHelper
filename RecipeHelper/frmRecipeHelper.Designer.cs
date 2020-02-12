@@ -1,6 +1,6 @@
 ﻿namespace RecipeHelper
 {
-    partial class Form1
+    partial class frmRecipeHelper
     {
         /// <summary>
         /// Required designer variable.
