@@ -128,7 +128,7 @@
             this.txtCups.Size = new System.Drawing.Size(100, 20);
             this.txtCups.TabIndex = 9;
             // 
-            // Form1
+            // frmRecipeHelper
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -144,7 +144,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "frmRecipeHelper";
             this.Text = "Recipe Helper";
             this.ResumeLayout(false);
             this.PerformLayout();
